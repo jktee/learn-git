@@ -25,4 +25,3 @@ plt.plot(save2,label='y')
 plt.legend(loc=0)
 plt.show()
 
-#输出x、y最小值
